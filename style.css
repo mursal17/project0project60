@@ -1,0 +1,107 @@
+.line {
+height: 12px;
+background:black;
+width: 120px;
+margin: 8px auto;
+}
+.menu {
+list-style: none;
+font-family: gabriola;
+position: fixed ;
+top: 10px;
+right: 50px;
+z-index: 10;
+cursor: pointer;
+color: crimson;
+}
+
+
+
+
+.links{
+float: left;
+color: aliceblue;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+font-family: Comic Sans Ms;
+}
+.links:hover{
+background:linear-gradient(#00ffd5 0%,#c300ff 100%);
+}
+
+body {
+text-align: center;  
+   background: linear-gradient(#ff1999 0%,#fbff00 100% );
+}
+#character {
+ width: 130px
+}
+#title {
+ font-weight: 700;
+  font-size: 75px;
+}
+#info{
+  font-weight:400;
+  font-size: 25px;
+}
+#p1 {
+font-size: 25px;
+}
+#spark  {
+width:100px;
+}
+#para {
+font-size: 20;
+}
+#img2 {
+width: 100px
+}
+#end {
+font-size: 40
+}
+#para2 {
+font-size: 20;
+}
+a{
+text-decoration: none;
+}
+.article{
+font-size:30px ;
+font-weight:500;
+color: black;
+}
+html{
+scroll-behavior: smooth;
+}
+#img2 {
+width: 100px;
+}
+#imgarticle{
+transition:transform.2s;
+
+}
+#imgarticle:hover{
+transform:scale(0.8);
+}
+#para{
+font-family: Kristen ITC;
+font-weight:bold;
+}
+h2{
+font-family:Papyrus;
+}
+#p1{
+font-family:Algerian;
+}
+#title1{
+font-size:60px;
+font-family: Comic Sans MS;
+}
+    
+
+
+
+
+
